@@ -36,6 +36,6 @@
         "gulp-csso": "^3.0.1",
         "gulp-rename": "^1.4.0",
         "webpack": "^4.29.6",
-        "webpack-cli": "^3.2.3"
+        "webpack-cli": "^3.3.12"
     }
 }
